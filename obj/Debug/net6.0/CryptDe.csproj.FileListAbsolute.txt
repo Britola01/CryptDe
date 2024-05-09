@@ -1,0 +1,15 @@
+/home/pbrito/dev/CryptDe/bin/Debug/net6.0/CryptDe
+/home/pbrito/dev/CryptDe/bin/Debug/net6.0/CryptDe.deps.json
+/home/pbrito/dev/CryptDe/bin/Debug/net6.0/CryptDe.runtimeconfig.json
+/home/pbrito/dev/CryptDe/bin/Debug/net6.0/CryptDe.dll
+/home/pbrito/dev/CryptDe/bin/Debug/net6.0/CryptDe.pdb
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.csproj.AssemblyReference.cache
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.AssemblyInfoInputs.cache
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.AssemblyInfo.cs
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.csproj.CoreCompileInputs.cache
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.dll
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/refint/CryptDe.dll
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.pdb
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/CryptDe.genruntimeconfig.cache
+/home/pbrito/dev/CryptDe/obj/Debug/net6.0/ref/CryptDe.dll
